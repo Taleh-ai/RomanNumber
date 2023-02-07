@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3957b27-5c32-4664-8f2e-c259d4921031" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RomanNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/AddBinary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/LengthOfLastWord/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/LongestCommonPrefix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/Palindrome_Number/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/RemoveElement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/RomanClass/RomanClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolution/ValidParentheses/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KVO5RAbIrY9IPNHRqVRxwDlhZn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbookair/IdeaProjects/RomanNumber&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.LeetCodeSolution.RemoveElement.Solution">
+    <configuration name="LeetCodeSolution.LengthOfLastWord.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolution.LengthOfLastWord.Solution" />
+      <module name="RomanNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolution.LengthOfLastWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeSolution.LongestCommonPrefix.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolution.LongestCommonPrefix.Solution" />
+      <module name="RomanNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolution.LongestCommonPrefix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeSolution.Palindrome_Number.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolution.Palindrome_Number.Solution" />
+      <module name="RomanNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolution.Palindrome_Number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeSolution.RemoveElement.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolution.RemoveElement.Solution" />
+      <module name="RomanNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolution.RemoveElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolution.ValidParentheses.Solution" />
+      <module name="RomanNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolution.ValidParentheses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCodeSolution.RemoveElement.Solution" />
+        <item itemvalue="Application.LeetCodeSolution.LengthOfLastWord.Solution" />
+        <item itemvalue="Application.LeetCodeSolution.LongestCommonPrefix.Solution" />
+        <item itemvalue="Application.LeetCodeSolution.Palindrome_Number.Solution" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3957b27-5c32-4664-8f2e-c259d4921031" name="Changes" comment="" />
+      <created>1674056100789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674056100789</updated>
+      <workItem from="1674056102523" duration="8006000" />
+      <workItem from="1674574303187" duration="4129000" />
+      <workItem from="1674659669364" duration="782000" />
+      <workItem from="1674842917103" duration="2014000" />
+      <workItem from="1674890621284" duration="1250000" />
+      <workItem from="1675264114659" duration="1767000" />
+      <workItem from="1675515427107" duration="885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolution/LongestCommonPrefix/Solution.java</url>
+          <line>5</line>
+          <properties class="LeetCodeSolution.LongestCommonPrefix.Solution" method="longestCommonPrefix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolution/LongestCommonPrefix/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolution/LongestCommonPrefix/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
